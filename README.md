@@ -21,8 +21,11 @@ https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@refs/heads/master/rule.t
 https://gcore.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule@refs/heads/master/mv.txt
 
 AWAvenue 秋风广告规则
+AdGuard  ubo订阅链接 
 https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt
+秋风广告规则-补充规则” 仅提供适用于“AdGuard Home/DNS”的
 https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Replenish.txt
 
-
+hosts 订阅链接 
 https://github.boki.moe/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt
+https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-hosts.txt

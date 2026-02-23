@@ -1,6 +1,8 @@
 # pc-ads
 pc-ads
 
+https://gcore.jsdelivr.net/gh/wwmhyy2323/pc-ads@refs/heads/master/host.txt
+
 1.1 host
 
 ad pass  大圣

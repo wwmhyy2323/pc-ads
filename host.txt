@@ -1,0 +1,151 @@
+
+
+# --- SWITCHHOSTS_CONTENT_START ---
+
+
+
+
+104.21.50.254  asmr-300.com
+169.136.79.116  www.bigo.tv
+45.134.173.73  www.gying.org
+172.64.148.47  www.deepl.com
+194.124.204.71  dict.deepl.com
+194.124.205.65 www2.deepl.com
+194.124.205.65   ita-free.www.deepl.com
+154.23.188.117    www.gamer520.com
+154.23.188.117    like.gamer520.com
+#stripchat
+104.17.117.12  zh.stripchat.com
+104.17.118.12   zh.stripchatgirls.com
+104.21.88.75  metrics.doppiostreams.com
+172.67.174.8  metrics.doppiostreams.com
+104.17.223.114   media-hls.doppiocdn.com
+104.17.222.114   media-hls.doppiocdn.com
+104.18.4.153  apps.lovense-api.com
+104.18.5.153  apps.lovense-api.com
+104.18.5.153 api.lovense-api.com
+104.18.4.153  api.lovense-api.com
+172.67.188.109   stquality.org
+104.21.8.107    stquality.org
+104.17.222.114  img.doppiocdn.com
+104.17.223.114   img.doppiocdn.com
+104.17.10.106   assets.strpst.com
+104.17.11.106   assets.strpst.com
+
+
+104.21.64.1  blue-plus.net
+151.101.194.167    twitch.tv
+144.76.86.117   uploadrar.com
+5.44.221.96     lrepacks.net
+31.216.145.5   mega.nz
+
+# afree tv     sooplive
+3.175.207.23  www.sooplive.co.kr
+13.226.69.99   play.sooplive.co.kr
+3.170.249.23  vod.sooplive.co.kr
+3.175.207.62   live-global-cdn-v02.sooplive.co.kr
+3.175.207.129   live.sooplive.co.kr
+
+
+#   dns设置
+
+162.159.61.8  dns.cloudflare.com
+172.64.41.8  dns.cloudflare.com
+104.16.132.229  dns.cloudflare.com
+94.140.15.15 dns.adguard-dns.com
+94.140.14.14  dns.adguard-dns.com
+
+1.1.1.1   one.one.one.one
+
+45.90.30.0   anycast.dns.nextdns.io
+45.11.104.186   dns.nextdns.io
+45.90.28.0  dns.nextdns.io
+
+
+37.252.249.233    firefox.dns.nextdns.io
+167.179.109.118    firefox.dns.nextdns.io
+162.159.61.4   mozilla.cloudflare-dns.com
+172.64.41.4   mozilla.cloudflare-dns.com
+42.51.37.204   dns.18bit.cn
+103.236.74.24   2026.dns1.top
+
+
+#wallhaven
+104.26.11.35   wallhaven.cc
+172.67.74.111  wallhaven.cc
+104.18.40.68    pro.fontawesome.com
+172.64.147.188   pro.fontawesome.com
+203.208.50.33   fonts.googleapis.com
+142.250.194.202   fonts.googleapis.com
+142.250.198.74   fonts.googleapis.com
+216.58.220.99    fonts.gstatic.com
+104.17.24.14   cdnjs.cloudflare.com
+142.250.197.227   fonts.gstatic.com
+104.26.10.35 th.wallhaven.cc
+104.26.10.35  th.wallhaven.cc
+
+
+
+#google
+
+142.250.199.206  google.com
+142.250.196.196   www.google.com
+203.208.43.98  ssl.gstatic.com
+203.208.43.98  www.gstatic.com
+203.208.43.98  fonts.gstatic.com
+172.67.172.145  search.fuyeor.com
+142.250.199.238   translate.google.com
+142.250.4.95   translate.googleapis.com
+20.43.161.105 duckduckgo.com
+
+104.21.95.42   s.linkedbus.com
+172.67.142.251   s.linkedbus.com
+38.22.92.48   soso.niostack.com
+
+23.44.217.166   aka.ms
+23.209.218.9   aka.ms
+
+185.70.42.37   mail.proton.me
+5.44.221.96   lrepacks.net
+
+#迅雷屏蔽解除
+127.0.0.1   hub5emu.sandai.net
+127.0.0.1   hub5btmain.sandai.net
+127.0.0.1   upgrade.xl9.xunlei.com
+0.0.0.0   www.pcfreetime.com
+127.0.0.1 update.googleapis.com
+
+
+
+#P2P-ban
+127.0.0.1 bsccdn.net
+127.0.0.1 dyp2p-ali.douyucdn.cn
+127.0.0.1 dyp2p-hw.douyucdn.cn
+127.0.0.1 ietheivaicai.com
+127.0.0.1 kuiniuca.com
+127.0.0.1 nexusedgeio.com
+127.0.0.1 onethingpcs.com
+127.0.0.1 p2p-ali.douyucdn.cn
+127.0.0.1 p2p.huya.com
+127.0.0.1 p2p.qq.com
+127.0.0.1 p2pchunk-hw.douyucdn.cn
+127.0.0.1 p2pchunk-table.douyucdn.cn
+127.0.0.1 p2pchunk-ws.douyucdn.cn
+127.0.0.1 p2perrorlog.douyucdn.cn
+127.0.0.1 p2plive-ali.douyucdn.cn
+127.0.0.1 p2plive-ws.douyucdn.cn
+127.0.0.1 p2plog.douyucdn.cn
+127.0.0.1 p2ptun.qq.com
+127.0.0.1 p2pupdate.gamedl.qq.com
+127.0.0.1 p2pupgrade.gamedl.qq.com
+127.0.0.1 p2pvod-ws.douyucdn.cn
+127.0.0.1 pcdn.yximgs.com
+127.0.0.1 pkoplink.com
+127.0.0.1 saxysec.com
+127.0.0.1 stun.douyucdn.cn
+127.0.0.1 stun.hitv.com
+127.0.0.1 stun1.douyucdn.cn
+127.0.0.1 szbdyd.com
+127.0.0.1 uhabo.com
+127.0.0.1 xycdn.com
+
